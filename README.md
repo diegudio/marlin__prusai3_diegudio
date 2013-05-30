@@ -5,7 +5,7 @@ Marlin firmware adapted for a Prusa i3 3D printer with the following hardware co
 
 - Arduino 2560 board
 - RAMPS 1.4 with StepStick A4988 Stepper Driver Module
-- Geared extruder
+- Geared extruder (tuned at 590.90 steps/unit)
 - NEMA 17 stepper motors from Wantai Motors (P/N 42BYGHW811)
 - Opto-endstops at min location (0,0,0). No max endstops (deactivated in Marlin)
 - T2.5 16 teeth pulleys for X and Y axis (80.00 steps/unit)
